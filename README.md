@@ -1,5 +1,7 @@
  Eth-Bucharest
 
+Contract deployed on arbitrum sepolia - https://sepolia-explorer.arbitrum.io/tx/0x758a474f88e46f50960722063e481ab734d90cf956f268d6df9cb50b20071fe1
+
 Features - 
 
 - Multple organizers can start elections
