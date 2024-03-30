@@ -2,6 +2,8 @@
 
 Contract deployed on arbitrum sepolia - https://sepolia-explorer.arbitrum.io/tx/0x758a474f88e46f50960722063e481ab734d90cf956f268d6df9cb50b20071fe1
 
+Contract address - 0x8c43FEAbe31C39f009B7A843b0Fe64689F4ceb74
+
 Features - 
 
 - Multple organizers can start elections
